@@ -1,0 +1,4 @@
+name: HyperChisel
+version: '${project.version}'
+main: io.github.lianjordaan.hyperchisel.HyperChisel
+api-version: 1.19
