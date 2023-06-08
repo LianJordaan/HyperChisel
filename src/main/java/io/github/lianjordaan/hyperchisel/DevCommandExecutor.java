@@ -180,6 +180,7 @@ public class DevCommandExecutor implements CommandExecutor {
             newDevWorld.setGameRule(GameRule.DO_MOB_SPAWNING, false);
             newDevWorld.setGameRule(GameRule.RANDOM_TICK_SPEED, 0);
             Location spawnLocation = newDevWorld.getSpawnLocation();
+            newDevWorld.setTime(6000);
             spawnLocation.setPitch(0);
             spawnLocation.setYaw(-90);
             spawnLocation.setX(0.5);
