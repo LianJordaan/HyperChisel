@@ -1,0 +1,13 @@
+# HyperChisel Configuration File
+
+# The name of the world to perform actions on
+worldName: "HyperChisel"
+
+# Length of code lines
+codeLineLength: 100
+
+# Number of lines
+numberOfLines: 6
+
+# Number of stacked lines
+stackedLines: 77
